@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a1a8fa9cef3bac42902f0527128a030, type: 3}
+  m_Name: TurretConfig
+  m_EditorClassIdentifier: 
+  m_MaxYawAngle: 35
+  m_AimSmoothing: 12
+  m_DragDegreesPerScreenWidth: 100
+  m_LaserLength: 18
+  m_ShotsPerSecond: 6
+  m_BulletSpeed: 60
+  m_BulletDamage: 10
+  m_BulletLifetime: 2
+  m_Prefab:
+    m_AssetGUID: 8d00a15b446723a479077940a1a51204
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  m_BulletPrefab:
+    m_AssetGUID: e2bfda08f6f460041844cb1a3b33bc00
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0

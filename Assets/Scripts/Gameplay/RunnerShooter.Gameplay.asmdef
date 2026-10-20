@@ -1,0 +1,24 @@
+{
+    "name": "RunnerShooter.Gameplay",
+    "rootNamespace": "RunnerShooter.Gameplay",
+    "references": [
+        "RunnerShooter.Core",
+        "Zenject",
+        "UniTask",
+        "Unity.Addressables",
+        "Unity.InputSystem",
+        "Unity.Cinemachine",
+        "Unity.TextMeshPro",
+        "DOTween.Modules",
+        "UniTask.DOTween"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

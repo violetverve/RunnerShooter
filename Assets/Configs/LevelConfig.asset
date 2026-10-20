@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f30474b55c395f4b82e93465870e178, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: 
+  m_Length: 100
+  m_GroundMargin: 40
+  m_RoadWidth: 8
+  m_EnemyCount: 17
+  m_EnemyMinSpacing: 4
+  m_EnemySpawnStartDistance: 30
+  m_GroundTile:
+    m_AssetGUID: 8c6889eab2ef59b4fb182e7dd24d3205
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
+  m_FinishLine:
+    m_AssetGUID: 528cbea3bed2b824d9100624b5036741
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_SubObjectGUID: 
+    m_EditorAssetChanged: 0
